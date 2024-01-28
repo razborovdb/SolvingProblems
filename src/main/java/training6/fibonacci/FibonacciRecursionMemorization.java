@@ -18,6 +18,7 @@ public class FibonacciRecursionMemorization {
         System.out.println(fibonacci(0)); //0
         System.out.println(fibonacci(1)); //1
         System.out.println(fibonacci(2)); //1
+        System.out.println(fibonacci(3)); //1
         System.out.println(fibonacci(8)); //21
         System.out.println(fibonacci(17)); //1597
         System.out.println(fibonacci(38)); //39088169
