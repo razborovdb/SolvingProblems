@@ -1,0 +1,1 @@
+For the following given value of coins- 1, 3, and 6 and a sum, what will be the minimum number of coins required to reach the sum?
